@@ -8,9 +8,18 @@
             "job_title" : "IT Staff",
             "phone_number" : "081024042018",
             "email" : "irvan27@yahoo.co.id"
+        },
+        { 
+            "id": 2, 
+            "nama": "Ferdinand",
+            "alamat" : "jalan Mampang Prapatan",
+            "company" : "PT. Asiatek Indonesia",
+            "job_title" : "IT Staff",
+            "phone_number" : "081024042018",
+            "email" : "irvan27@yahoo.co.id"
         }
     ],
-    "detail": [
+    "summary_detail": [
         { "id": 1, 
             "menginap": "Ya", 
             "status": "Menikah",
@@ -21,6 +30,12 @@
             "takut_anjing" : "tidak",
             "pengalaman_kerja_luar_negeri" : "tidak",
             "bahasa_inggris" : "cukup" 
+        },
+        { "id": 2, 
+            "menginap": "Ya", 
+            "status": "Menikah",
+            "punya_anak" : "Ya",
+            "agama" : "Islam"
         }
       ]
 }
