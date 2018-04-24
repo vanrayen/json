@@ -6,7 +6,6 @@
             "alamat" : "jalan kuningan timur raya",
             "company" : "PT. Asiatek Indonesia",
             "job_title" : "IT Staff",
-            "religion" : "Islam",
             "phone_number" : "081024042018",
             "email" : "irvan27@yahoo.co.id"
         }
@@ -15,7 +14,13 @@
         { "id": 1, 
             "menginap": "Ya", 
             "status": "Menikah",
-            "punya_anak" : "Ya" 
+            "punya_anak" : "Ya",
+            "agama" : "Islam",
+            "alamat_sekarang" : "Kedoya Jakarta Barat",
+            "provinsi" : "DKI Jakarta",
+            "takut_anjing" : "tidak",
+            "pengalaman_kerja_luar_negeri" : "tidak",
+            "bahasa_inggris" : "cukup" 
         }
       ]
 }
