@@ -46,7 +46,8 @@
             "menginap": "Ya", 
             "status": "Menikah",
             "punya_anak" : "Ya",
-            "agama" : "Islam"
+            "agama" : "Islam",
+            "alamat_sekarang" : "Mampang"
         }
       ]
 }
