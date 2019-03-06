@@ -1,4 +1,10 @@
 {
+    "posts": [
+    {
+      "id": 3,
+      "nama": "Budi"
+    }
+  ],
     "summary":[
         { 
             "id": 1, 
